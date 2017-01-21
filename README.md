@@ -5,6 +5,19 @@ https://amayaizcue.github.io/indumento/web/
 http://www.indumento.es
 
 
+# Icons
+
+http://fontawesome.io/
+
+https://material.io/icons/
+
+http://getbootstrap.com/components/
+
+
+# Parallax
+
+http://bennettfeely.com/clippy/
+
 
 # GIT
 
