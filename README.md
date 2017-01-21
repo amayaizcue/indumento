@@ -18,4 +18,5 @@ GIT (desde carpeta indumento)
 
 Obtener del servidor los cambios: git pull
 Asociar cosas nuevas: git add \*
-
+Subir a repositorio local (no web): git commit -m "Mensaje"
+Subir repositorio local a web: git push
