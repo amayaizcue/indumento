@@ -9,7 +9,7 @@
 
 TERMINAL
 
-Abrir terminal: Cmd + espacio -> Terminal  
+Abrir terminal: cmd button + espacio -> Terminal  
 listar: ls  
 Acceder a directorios: cd nombre_directorio  
 Salir al directorio superior: cd ..
