@@ -1,0 +1,55 @@
+﻿body {
+    font-family: 'Raleway', sans-serif;
+    background-image: url("../img/ballet.jpg");
+    background-size: 100%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.titulo {
+    letter-spacing: 0.1em;
+    font-size: 4em;
+    font-weight: 400;
+    color: #707070;
+    padding-bottom: 10px;
+}
+
+.subtitulo {
+    letter-spacing: 0.1em;
+    font-size: 2em;
+    font-weight: 400;
+    color: #707070;
+    padding-top: 5px;
+}
+
+.raya {
+    border-bottom: 2px solid #707070;
+}
+
+.background-home {
+    padding-bottom: 50px;
+}
+
+.background-section2 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #FFF;
+    -webkit-clip-path: polygon(0% 20%, 100% 0%, 100% 100%, 10% 80%);
+    clip-path: polygon(0% 20%, 100% 0%, 100% 100%, 10% 80%);
+}
+
+.background-section4 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #FFF;
+    -webkit-clip-path: polygon(0% 0%, 100% 20%, 80% 100%, 0% 100%);
+    clip-path: polygon(0% 0%, 100% 20%, 80% 100%, 0% 100%);
+}
+
+.background-section3 {
+    padding-top: 50px;
+}
+
+body {
+    background-color: #FFF;
+}
