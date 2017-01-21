@@ -14,6 +14,11 @@ https://material.io/icons/
 http://getbootstrap.com/components/
 
 
+# Parallax
+
+http://bennettfeely.com/clippy/
+
+
 # GIT
 
 TERMINAL
